@@ -6,8 +6,8 @@ I'm Serkan KOCAMAN, Fullstack developer from <b>Izmir, Turkey.</b> I have twenty
 
 My Projects;
 
-https://www.covid19-asi-sayilari.site/ - Vaccine counter for Turkey.
-https://t.me/CoderQuizBot - CoderQuiz Telegram Bot
+https://www.covid19-asi-sayilari.site/ - Vaccine counter for Turkey.</br>
+https://t.me/CoderQuizBot - CoderQuiz Telegram Bot </br>
 
 My personel web site; https://www.serkankocaman.com.tr
 
