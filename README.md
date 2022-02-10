@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi everyone 🖖
 
-<!--
-**KiPSOFT/KiPSOFT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my github!
 
-Here are some ideas to get you started:
+I'm Serkan KOCAMAN, Fullstack developer from <b>Izmir, Turkey.</b> I have twenty years of developer experience. I started developing with pascal. then Delphi. I have been working with web technologies and node.js for about 6 years. I have knowledge of PHP, c#, c, python. I am interested in rust and go as a hobby. I have experience with MongoDB, MySQL, AWS ECS, AWS Fargate, Kubernetes, AWS CloudFront, AWS S3 and GCP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Projects;
+
+https://www.covid19-asi-sayilari.site/ - Vaccine counter for Turkey.
+
+My personel web site; https://www.serkankocaman.com.tr
+
+
+<h3>Where to find me</h3>
+<p><a href="https://github.com/KiPSOFT" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/KiPSOFT" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/serkankocaman" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@KiPSOFT" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
